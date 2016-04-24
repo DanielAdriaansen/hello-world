@@ -15,3 +15,4 @@ import os, sys, glob, operator
 
 print("HELLO WORLD")
 
+print("IT'S A GREAT DAY!")
